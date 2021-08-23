@@ -1,0 +1,98 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+html, body {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+}
+
+
+.navbar {
+    font-weight: bold;
+    color: black;
+    
+}
+
+.navbar-brand {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 22px;
+}
+.carousel-caption h5{
+    font-size: 30px;
+    font-weight: 700;
+}
+.carousel-caption p {
+    font-size: 18px;
+    top: 2rem;
+}
+.top {
+    font-size: 30px, x-large;
+    text-align: center;
+    font-weight: bold;
+}
+.card{
+    width: 250px;
+ 
+}
+
+
+.card-text{
+    font-size: 35px, x-large;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+
+
+
+.footer {
+    text-align: center;
+    color: #ffffff;
+    background-color:rgb(126, 126, 126) ;
+}
+.qn{
+    color:#000000;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.us {
+    width: 800px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ux {
+    width: 800px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+}
+.carrito {
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ups{
+    text-align: center;
+}
+.nus {
+    font-weight: bold;
+}
+.ns{
+    color:black;
+    font-weight: bold;
+}
+
+.nx{
+    color:rgb(112, 112, 112);
+    font-weight: bold;
+}
+
+.faaa {
+    text-align: center;
+}
